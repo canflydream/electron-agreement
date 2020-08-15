@@ -1,0 +1,10 @@
+server:
+  port: 9999
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://192.168.142.129:27017/electron_agreement"
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
