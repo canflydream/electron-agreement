@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: "mongodb://192.168.142.129:27017/electron_agreement"
+      uri: "mongodb://192.168.142.128:27017/electron_agreement"
   resources:
     static-locations: file:${tlPath},classpath:/static/,classpath:/META-INF/resources/,classpath:/resources/,classpath:/static/,classpath:/public/
   mvc:

@@ -6,4 +6,5 @@ public class CollectionNames {
     public static final String USER="user";
     public static final String AGREEMENT_TEMPLATE="agreement_template";
     public static final String ELEMENT_DATA="element_data";
+    public static final String ONE_LEVEL_ELEMENT="one_level_element";
 }
